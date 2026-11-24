@@ -1,7 +1,7 @@
 .DS_Store
 credentials.json
 token.json
-data
-.ipynb_checkpoints
-build
-logs
+data/
+.ipynb_checkpoints/
+build/
+logs/
