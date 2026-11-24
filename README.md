@@ -67,3 +67,20 @@ conda activate geo_env
 
 If you'd like to use the already processed data for your projects, don't hesitate to reach out!  
 This work was done as part of the [`OBCT`](https://www.obct.nl/) project.
+
+
+
+Using CSD3. Used a custom requirements.yml to avoid very specific versioning. The standard CSD3 conda is very slow so loaded the ceuadmin/miniforge module first which seems to use a mamba solver.
+
+
+
+Created geo_env conda environment, also installed osium-tool.
+
+
+
+Need to add geo_env to jupyter
+
+
+
+Consider removing 830 and 850 - just a few small islands
+
